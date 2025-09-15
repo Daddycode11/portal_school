@@ -65,6 +65,7 @@
                                 @endif
                                 <li class="list-group-item"><b>Students:</b> <a class="float-right">{{ $students->count() }}</a></li>
                             </ul>
+                            
                         </div>
                     </div>
 

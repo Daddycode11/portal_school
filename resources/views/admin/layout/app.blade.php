@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Harvard Admin Panel</title>
+    <title>SJNH Admin Panel</title>
 
     <!-- Google Font: Source Sans Pro (or any other) -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700">

@@ -23,7 +23,7 @@
             </ul>
         </div>
     @endif
-
+    <!-- Dirop grading point -->
     <form action="{{ route('admin.updateGradingSystem', $gradingSystem->subject_id) }}" method="POST">
         @csrf
         @method('PUT')

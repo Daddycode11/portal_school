@@ -27,7 +27,7 @@ The system includes features such as:
 
 -   Add and remove students and faculty
 -   Create and manage subjects and sections
--   Assign faculty to teach specific subjects
+-   Assign faculty to teach specific subjects 
 -   Enroll students in classes
 -   Set up grading systems for each subject
 -   System-wide oversight and management
@@ -148,9 +148,6 @@ This project is specifically designed for educational purposes:
 
 ⚠️ **Important**: This is a learning project. For production use in real academic environments, implement additional security measures, data validation, backup systems, and follow security best practices.
 
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Support
 

@@ -2,7 +2,7 @@
     <!-- Brand Logo -->
     <a href="{{ route('admin.dashboard') }}" class="brand-link">
         <i class="fas fa-graduation-cap brand-image img-circle elevation-3 mt-1" style="opacity: .8"></i>
-        <span class="brand-text font-weight-light">Harvard Admin Panel</span>
+        <span class="brand-text font-weight-light">SJNH Admin Panel</span>
     </a>
 
     <!-- Sidebar -->
